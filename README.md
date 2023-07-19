@@ -21,7 +21,7 @@ Consumer Expenditure Surveys (U.S. Bureau of Labor Statistics)
 
 **This project was completed as part of CareerFoundry's 'Data Immersion' programme, July 2023, with Alex Widder (tutor) and Madhuri Maddipatla (mentor)
 
-Link to report on Tableau Public
+**Link to report on Tableau Public** <br>
 Note that the report does not included every aspect of the investigation, but focusses in the most compelling elements to tell the story.
 https://public.tableau.com/views/OutofPocketportfolio/StoryDash?:language=en-US&:display_count=n&:origin=viz_share_link
 
